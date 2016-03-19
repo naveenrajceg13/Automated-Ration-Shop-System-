@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Ration">
+</Property><Property Name="Solution File" Value="D:\ration\Ration\Ration.sln">
+</Property><Property Name="User Options File" Value="D:\ration\Ration\Ration.v11.suo">
+</Property><Property Name="Date" Value="19 August 2012">
+</Property><Property Name="Time" Value="18:31">
+</Property></Properties><Event ErrorLevel="3" Project="" Source="Ration.sln" Description="SafeUpgrade">
+</Event><Event ErrorLevel="0" Project="" Source="Ration.sln" Description="File successfully backed up as D:\ration\Ration\Backup\Ration.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Ration.v11.suo" Description="File successfully backed up as D:\ration\Ration\Backup\Ration.v11.suo">
+</Event><Event ErrorLevel="3" Project="Ration" Source="Ration\Ration.csproj" Description="OneWayUpgrade">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Ration.csproj" Description="Project file successfully backed up as D:\ration\Ration\Backup\Ration\Ration.csproj">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\AdminLogin.cs" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\AdminLogin.cs">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\AdminLogin.Designer.cs" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\AdminLogin.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\AppData.cs" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\AppData.cs">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\db.cs" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\db.cs">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\EnrollmentForm.cs" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\EnrollmentForm.cs">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\EnrollmentForm.designer.cs" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\EnrollmentForm.designer.cs">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Home.cs" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Home.cs">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Home.Designer.cs" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Home.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\MainForm.cs" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\MainForm.designer.cs" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\MainForm.designer.cs">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\NewUser.cs" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\NewUser.cs">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\NewUser.Designer.cs" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\NewUser.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Program.cs" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Program.cs">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Purchase.cs" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Purchase.cs">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Purchase.Designer.cs" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Purchase.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\StockUpdation.cs" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\StockUpdation.cs">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\StockUpdation.Designer.cs" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\StockUpdation.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Terminal.cs" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Terminal.cs">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Terminal.Designer.cs" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Terminal.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\UserLogin.cs" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\UserLogin.cs">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\UserLogin.Designer.cs" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\UserLogin.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\VerificationForm.cs" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\VerificationForm.cs">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\VerificationForm.Designer.cs" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\VerificationForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Properties\Settings.settings" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Resources\login.jpg" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Resources\login.jpg">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Resources\loginBG.JPG" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Resources\loginBG.JPG">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Resources\newuser.jpg" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Resources\newuser.jpg">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Resources\hand.JPG" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Resources\hand.JPG">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Resources\bg_img1.png" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Resources\bg_img1.png">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Resources\defaultLogin.jpg" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Resources\defaultLogin.jpg">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Resources\Rolling-Weight-Machine-.jpg" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Resources\Rolling-Weight-Machine-.jpg">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Resources\gew_series_scale_11-l.jpg" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Resources\gew_series_scale_11-l.jpg">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Resources\pro2-250x250.jpg" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Resources\pro2-250x250.jpg">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Resources\pro6.jpg" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Resources\pro6.jpg">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Resources\pro8.jpg" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Resources\pro8.jpg">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Resources\User.png" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Resources\User.png">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Resources\o_P271185.jpg" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Resources\o_P271185.jpg">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Resources\pd1998635.jpg" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Resources\pd1998635.jpg">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\app.config" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\app.config">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Resources\balance-weight-scale.jpg" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Resources\balance-weight-scale.jpg">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Resources\Fingerprint.jpg" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Resources\Fingerprint.jpg">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Resources\rfid-reader.jpg" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Resources\rfid-reader.jpg">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Resources\preview.png" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Resources\preview.png">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Resources\loginBackground.jpg" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Resources\loginBackground.jpg">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\AdminLogin.resx" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\AdminLogin.resx">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\EnrollmentForm.resx" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\EnrollmentForm.resx">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Home.resx" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Home.resx">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\MainForm.resx" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\NewUser.resx" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\NewUser.resx">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Properties\Resources.resx" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Purchase.resx" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Purchase.resx">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\StockUpdation.resx" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\StockUpdation.resx">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Terminal.resx" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\Terminal.resx">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\UserLogin.resx" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\UserLogin.resx">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\VerificationForm.resx" Description="File successfully backed up as D:\ration\Ration\Backup\Ration\VerificationForm.resx">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Ration.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Ration" Source="Ration\Ration.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Ration.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Ration.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Ration" Source="Ration\Ration.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
